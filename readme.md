@@ -57,5 +57,5 @@ Adding fixed charges Printing bill.
 checkBalance(),deposit(),withdraw(),miniStatement(),Main function should show a menu and call these functions.
 
 ## DAY 3 Codes are:
-
+Linear Serach, matrixadd, name, read and displayarray, fib, matrix display
 
