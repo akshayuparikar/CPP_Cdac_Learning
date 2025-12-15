@@ -5,9 +5,8 @@
 armstrong, countdigit, divisible by three, fact, evenodd, fact, factor, freqdigit, greatestbetn3, looping statement, power, square, sum of natural number
 -- Greatest of Three Numbers
 
--Read three integers and print the largest
-.
--Sum of First N Natural Numbers
+-Read three integers and print the largest.
+-Sum of First N Natural Numbers.
 
 -Use a while loop to compute the sum of first N natural numbers.
 
