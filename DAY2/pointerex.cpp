@@ -1,14 +1,22 @@
 #include <iostream>
 using namespace std;
+int main()
+{
+    int i = 5;
+    int *iptr;
 
-int main(){
-    int i;
-    int *ip;
-    i=2;
-    ip=&i;
-    cout<<"\n ip+1="<<ip+1;
-    cout<<"\n *ip+1="<<*ip+1;
-    cout<<"\n *(ip+1)="<<*(ip+1);
-    cout<<"\n *ip++="<<*ip++;
-    cout<<"\n ++*ip="<<++*ip;
+    iptr = &i;
+
+    cout << "\ni = " << i;
+    cout << "\niptr = " << iptr;
+    cout << "\n&i = " << &i;
+    cout << "\n&iptr = " << &iptr;
+    cout << "\n*iptr = " << *iptr;
+    cout << "\niptr+1 = " << iptr + 1;
+    cout << "\n*iptr+1 = " << *iptr + 1;
+    cout << "\n*(iptr+1) = " << *(iptr + 1);
+    cout << "\n*iptr++ = " << *iptr++;
+    cout << "\n++*iptr = " << ++*iptr;
+    cout << endl;
+    return 0;
 }
