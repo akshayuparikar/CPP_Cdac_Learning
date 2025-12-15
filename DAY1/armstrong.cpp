@@ -1,3 +1,4 @@
+//armstrong
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -17,3 +18,4 @@ int main() {
     else cout << num << " is not an Armstrong number";
     return 0;
 }
+
