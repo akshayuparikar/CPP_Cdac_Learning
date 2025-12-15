@@ -6,9 +6,7 @@ armstrong, countdigit, divisible by three, fact, evenodd, fact, factor, freqdigi
 -Greatest of Three Numbers
 
 -Read three integers and print the largest.
-
 -Sum of First N Natural Numbers
-
 -Use a while loop to compute the sum of first N natural numbers.
 -Count Digits in a Number
 -Input a number and print how many digits it has.
